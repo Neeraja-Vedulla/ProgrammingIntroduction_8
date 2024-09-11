@@ -4,11 +4,12 @@ using System.Diagnostics;
 
 
 // example 0 - first program
-Console.WriteLine("Hello World!");
-// Console.ReadKey();
-// Debug.WriteLine("Hello World!");
+// This is first program
+Console.WriteLine("Hello World is!");
+Console.ReadKey();
+Debug.WriteLine("Hello World!");
 
-// variables and native operations
+// variles and native operations
 int x;
 int y;
 
